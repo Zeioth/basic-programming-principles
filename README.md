@@ -6,4 +6,6 @@ Make sure you have python installed. On linux it comes pre-installed. But if you
 
 Now you can run the python program in your current directory like
 
-    python hello_world.py
+``` shell
+python hello_world.py
+```
